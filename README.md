@@ -15,8 +15,6 @@ ____                                ____                      _
 
 ## _SBOM Vulnerability Scanner Tool_
 
-##TESTING from github 1
-##TESTING from github 2
 
 [![License: Unlicense](https://img.shields.io/badge/license-MIT-blue)](http://unlicense.org/) [![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-brightgreen)]() [![Build Status](https://img.shields.io/badge/Build-Production-green)](https://travis-ci.org/joemccann/dillinger) [![REUSE status](https://api.reuse.software/badge/git.fsfe.org/reuse/api)](https://api.reuse.software/info/git.fsfe.org/reuse/api)
 
